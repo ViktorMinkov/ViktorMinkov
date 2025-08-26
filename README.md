@@ -1,7 +1,5 @@
 # Hi there 👋 I`m Viktor
 
-🌱 Currently studying web development at [RSSchool](https://rs.school/)
-
 📁 **My projects:**
 
 - [**SongBird**](https://rolling-scopes-school.github.io/viktorminkov-JSFE2022Q3/songbird/pages/main/index.html) Quiz for recognizing birds by their voices
